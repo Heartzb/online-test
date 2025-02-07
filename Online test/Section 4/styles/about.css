@@ -1,0 +1,6 @@
+.content{
+    text-align: center;
+}
+.content, p {
+    font-size: 180%;
+}
